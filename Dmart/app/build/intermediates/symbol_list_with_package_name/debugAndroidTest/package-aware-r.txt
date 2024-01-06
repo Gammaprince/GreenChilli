@@ -1,3 +1,0 @@
-com.company.dmart.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

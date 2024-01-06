@@ -1,7 +1,0 @@
-com.company.dmart.test.app-androidTest-0 C:\My projects\Dmart\app\build\generated\res\resValues\androidTest\debug
-com.company.dmart.test.app-androidTest-1 C:\My projects\Dmart\app\build\generated\res\rs\androidTest\debug
-com.company.dmart.test.app-mergeDebugAndroidTestResources-2 C:\My projects\Dmart\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.company.dmart.test.app-mergeDebugAndroidTestResources-3 C:\My projects\Dmart\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.company.dmart.test.app-merged_res-4 C:\My projects\Dmart\app\build\intermediates\merged_res\debugAndroidTest
-com.company.dmart.test.app-annotation-experimental-1.3.0-5 C:\Users\jai laddu gopal\.gradle\caches\transforms-3\9d8d7feb3580355ffff343143a4678dc\transformed\annotation-experimental-1.3.0\res
-com.company.dmart.test.app-core-1.5.0-6 C:\Users\jai laddu gopal\.gradle\caches\transforms-3\cd423349e9fa80d0989033f52c5735f3\transformed\core-1.5.0\res
